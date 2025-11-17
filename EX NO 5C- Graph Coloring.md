@@ -55,8 +55,8 @@ Otherwise, print "NO".
 ```
 /*
 Program to implement Reverse a String
-Developed by: OVIYA P
-Register Number:  212223110033
+Developed by : Aakashraj M
+Register Number:  212222100002
 */
 import java.util.*;
 
